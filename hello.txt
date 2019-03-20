@@ -3,3 +3,4 @@ Hello world
 This is Inder.
 Inderpal is lazy!
 Inderpal loves his family.
+Inderpal likes to eat sweets.
