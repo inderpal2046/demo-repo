@@ -15,3 +15,4 @@ abcd
 Inderpal is smart.
 Inderpal is handsome
 Inderpal is emotional
+Inderpal is cool.
